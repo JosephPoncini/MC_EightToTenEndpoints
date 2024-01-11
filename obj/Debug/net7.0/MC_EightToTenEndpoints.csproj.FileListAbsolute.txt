@@ -31,3 +31,36 @@ C:\Desktop\CodeStack Academy\Level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\ref
 C:\Desktop\CodeStack Academy\Level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\MC_EightToTenEndpoints.pdb
 C:\Desktop\CodeStack Academy\Level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\MC_EightToTenEndpoints.genruntimeconfig.cache
 C:\Desktop\CodeStack Academy\Level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\ref\MC_EightToTenEndpoints.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\bin\Debug\net7.0\appsettings.json
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\bin\Debug\net7.0\MC_EightToTenEndpoints.exe
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\bin\Debug\net7.0\MC_EightToTenEndpoints.deps.json
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\bin\Debug\net7.0\MC_EightToTenEndpoints.runtimeconfig.json
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\bin\Debug\net7.0\MC_EightToTenEndpoints.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\bin\Debug\net7.0\MC_EightToTenEndpoints.pdb
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\MC_EightToTenEndpoints.csproj.AssemblyReference.cache
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\MC_EightToTenEndpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\MC_EightToTenEndpoints.AssemblyInfoInputs.cache
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\MC_EightToTenEndpoints.AssemblyInfo.cs
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\MC_EightToTenEndpoints.csproj.CoreCompileInputs.cache
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\MC_EightToTenEndpoints.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\MC_EightToTenEndpoints.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\staticwebassets\msbuild.MC_EightToTenEndpoints.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\staticwebassets\msbuild.build.MC_EightToTenEndpoints.props
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MC_EightToTenEndpoints.props
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MC_EightToTenEndpoints.props
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\scopedcss\bundle\MC_EightToTenEndpoints.styles.css
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\MC_EightToTenEndpoints.csproj.CopyComplete
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\MC_EightToTenEndpoints.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\refint\MC_EightToTenEndpoints.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\MC_EightToTenEndpoints.pdb
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\MC_EightToTenEndpoints.genruntimeconfig.cache
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\MC_EightToTenEndpoints\obj\Debug\net7.0\ref\MC_EightToTenEndpoints.dll

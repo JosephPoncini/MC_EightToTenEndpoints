@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desktop\\CodeStack Academy\\Level 2\\MC_EightToTenEndpoints\\MC_EightToTenEndpoints.csproj": {}
+    "C:\\Users\\sinat\\OneDrive\\Documents\\CodeStack_23-24\\level 2\\MC_EightToTenEndpoints\\MC_EightToTenEndpoints.csproj": {}
   },
   "projects": {
-    "C:\\Desktop\\CodeStack Academy\\Level 2\\MC_EightToTenEndpoints\\MC_EightToTenEndpoints.csproj": {
+    "C:\\Users\\sinat\\OneDrive\\Documents\\CodeStack_23-24\\level 2\\MC_EightToTenEndpoints\\MC_EightToTenEndpoints.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desktop\\CodeStack Academy\\Level 2\\MC_EightToTenEndpoints\\MC_EightToTenEndpoints.csproj",
+        "projectUniqueName": "C:\\Users\\sinat\\OneDrive\\Documents\\CodeStack_23-24\\level 2\\MC_EightToTenEndpoints\\MC_EightToTenEndpoints.csproj",
         "projectName": "MC_EightToTenEndpoints",
-        "projectPath": "C:\\Desktop\\CodeStack Academy\\Level 2\\MC_EightToTenEndpoints\\MC_EightToTenEndpoints.csproj",
-        "packagesPath": "C:\\Users\\jxpon\\.nuget\\packages\\",
-        "outputPath": "C:\\Desktop\\CodeStack Academy\\Level 2\\MC_EightToTenEndpoints\\obj\\",
+        "projectPath": "C:\\Users\\sinat\\OneDrive\\Documents\\CodeStack_23-24\\level 2\\MC_EightToTenEndpoints\\MC_EightToTenEndpoints.csproj",
+        "packagesPath": "C:\\Users\\sinat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinat\\OneDrive\\Documents\\CodeStack_23-24\\level 2\\MC_EightToTenEndpoints\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jxpon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sinat\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
